@@ -5,8 +5,8 @@
 # catalog-license apache2
 # catalog-version undef
 Name:		texlive-xetexfontinfo
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	Report font features in XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/plain/xetexfontinfo
