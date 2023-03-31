@@ -1,6 +1,6 @@
 Name:		texlive-xetexfontinfo
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Report font features in XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/plain/xetexfontinfo
